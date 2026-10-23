@@ -4,20 +4,20 @@ This project explores the Online Retail II dataset using Python. It focuses on c
 
 The analysis is carried out in a Jupyter Notebook using Pandas, NumPy, Matplotlib and Seaborn.
 
-## Table of Contents
+## 📌 Table of Contents
 
-1. Overview
-2. Problem Statement
-3. Dataset
-4. Tools and Technologies
-5. Project Structure
-6. Data Cleaning
-7. Methods and Analysis
-8. Key Insights
-9. How to Run the Project
-10. Results and Conclusion
-11. Future Work
-12. Author and Contact
+1. [Overview](#overview)
+2. [Problem Statement](#problem-statement)
+3. [Dataset](#dataset)
+4. [Tools and Technologies](#tools-and-technologies)
+5. [Project Structure](#project-structure)
+6. [Data Cleaning](#data-cleaning)
+7. [Methods and Analysis](#methods-and-analysis)
+8. [Key Insights](#key-insights)
+9. [How to Run the Project](#how-to-run-the-project)
+10. [Results and Conclusion](#results-and-conclusion)
+11. [Future Work](#future-work)
+12. [Author and Contact](#author-and-contact)
 
 ## Overview
 
