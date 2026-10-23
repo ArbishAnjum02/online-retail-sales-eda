@@ -163,4 +163,4 @@ The analysis also highlights important limitations. The cleaned data excludes no
 
 **LinkedIn:** Add your LinkedIn profile URL
 
-**Email:** arbishanjum3@gmail.com
+**Email:** [arbishanjum3@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=arbishanjum3@gmail.com)
